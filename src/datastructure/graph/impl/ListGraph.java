@@ -1,4 +1,4 @@
-package datastructure.graph;
+package datastructure.graph.impl;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -83,8 +83,5 @@ public class ListGraph extends MyGraph{
 		if(ind > -1) {
 			list.get(x).remove(ind);
 		}
-		
-		
-		
 	}
 }

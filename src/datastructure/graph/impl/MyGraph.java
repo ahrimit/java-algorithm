@@ -1,4 +1,4 @@
-package datastructure.graph;
+package datastructure.graph.impl;
 
 abstract class MyGraph {
 	protected static final int MAX_DEFAULT_SIZE = 10;

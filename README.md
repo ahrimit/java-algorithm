@@ -1,2 +1,1 @@
-# java-data-structure
-JAVA 자료구조 
+### java 자료구조 & 알고리즘 모음  

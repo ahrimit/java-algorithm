@@ -1,4 +1,4 @@
-package collection;
+package datastucture.collection;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

@@ -14,7 +14,6 @@ public class QuickSort {
 		}
 		
 		quickSort(list);
-		
 		System.out.println(list);
 	
 	}
